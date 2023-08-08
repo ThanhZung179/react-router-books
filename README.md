@@ -1,8 +1,12 @@
-# React + Vite
+# React Router Books
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://react-router-books-five.vercel.app/
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Router Books is a simple web application built using React and React Router. This app demonstrates how to implement routing in a React application to display a list of invoices and details for each invoice.
+
+## Features
+
+- View a list of invoices and details for each invoice.
+- Utilize React Router to manage and synchronize routing:  Dashboard, Home, Contact, Invoices, Invoice
